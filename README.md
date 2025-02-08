@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm currently Student at AI science <br>I have experience in Machine Learning & Neural Networks<br>I have experience in Team work <br>i'm beginner in Front-end Web Development <br> 
+I'm currently Student at AI science <br>I have experience in Machine Learning & Neural Networks<br>I have experience in Team work <br>i'm beginner in Front-end Web Development <br> This is my projects:https://github.com/wafaamohamed962/wafaamohamed962
 
 
 ## 🌐 Socials:
