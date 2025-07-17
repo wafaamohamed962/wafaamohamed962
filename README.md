@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
 AI student with hands-on experience in Machine Learning, Neural Networks, and full-stack development. Passionate about solving real-world problems through intelligent systems. Strong background in Python, model evaluation, and problem-solving in academic and practical projects.
-<br> This is my projects:https://github.com/wafaamohamed962/wafaamohamed962
+<br>  my projects:https://github.com/wafaamohamed962/wafaamohamed962
 
 
 ## 🌐 Socials:
