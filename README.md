@@ -1,6 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm currently Student at AI science <br>I have experience in Machine Learning & Neural Networks<br>I have experience in Team work <br>i'm beginner in Front-end Web Development <br> This is my projects:https://github.com/wafaamohamed962/wafaamohamed962
+AI student with hands-on experience in Machine Learning, Neural Networks, and full-stack development. Passionate about solving real-world problems through intelligent systems. Strong background in Python, model evaluation, and problem-solving in academic and practical projects.
+<br> This is my projects:https://github.com/wafaamohamed962/wafaamohamed962
 
 
 ## 🌐 Socials:
