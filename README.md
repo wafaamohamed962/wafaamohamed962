@@ -5,14 +5,6 @@ I have hands-on experience in Machine Learning, Deep Learning, and Natural Langu
 I worked on multiple impactful projects including:
 AI-powered chatbot using RAG and LLMs
 Arabic NLP systems (Text-to-SQL, sentiment analysis)
-Computer Vision applications (gesture recognition, OCR)
-Data analysis and predictive modeling
-I also gained practical experience through:
-AI Instructor at iSchool
-DEPI (Digital Egypt Pioneers Initiative) AI & Data Science Program
-I am passionate about using AI to solve real-world problems, especially in healthcare and intelligent systems.
-Technical Skills:
-Python | Machine Learning | Deep Learning | NLP | Computer Vision | TensorFlow | PyTorch | SQL | Data Analysi
 <br>  my projects:https://github.com/wafaamohamed962/wafaamohamed962
 
 
