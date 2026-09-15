@@ -1,6 +1,18 @@
 ## Hi there 👋
 # 💫 About Me:
-AI student with hands-on experience in Machine Learning, Neural Networks, and full-stack development. Passionate about solving real-world problems through intelligent systems. Strong background in Python, model evaluation, and problem-solving in academic and practical projects.
+I am a Computer Science graduate specialized in Artificial Intelligence from the Egypt-Japan University of Science and Technology (E-JUST).
+I have hands-on experience in Machine Learning, Deep Learning, and Natural Language Processing (NLP), with a strong focus on building real-world AI systems.
+I worked on multiple impactful projects including:
+AI-powered chatbot using RAG and LLMs
+Arabic NLP systems (Text-to-SQL, sentiment analysis)
+Computer Vision applications (gesture recognition, OCR)
+Data analysis and predictive modeling
+I also gained practical experience through:
+AI Instructor at iSchool
+DEPI (Digital Egypt Pioneers Initiative) AI & Data Science Program
+I am passionate about using AI to solve real-world problems, especially in healthcare and intelligent systems.
+Technical Skills:
+Python | Machine Learning | Deep Learning | NLP | Computer Vision | TensorFlow | PyTorch | SQL | Data Analysi
 <br>  my projects:https://github.com/wafaamohamed962/wafaamohamed962
 
 
