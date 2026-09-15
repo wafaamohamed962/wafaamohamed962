@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am a Computer Science graduate specialized in Artificial Intelligence from the Egypt-Japan University of Science and Technology (E-JUST).
+I am a Computer Science graduate specialized in Artificial Intelligence from alamien international universty
 I have hands-on experience in Machine Learning, Deep Learning, and Natural Language Processing (NLP), with a strong focus on building real-world AI systems.
 I worked on multiple impactful projects including:
 AI-powered chatbot using RAG and LLMs
